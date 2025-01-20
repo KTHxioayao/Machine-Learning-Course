@@ -5,8 +5,8 @@ set.seed(1234567890)
 library(geosphere)
 
 # Read station and temperature data
-stations <- read.csv("stations.csv", fileEncoding = "latin1")
-temps <- read.csv("temps50k.csv")
+stations <- read.csv("../Data/stations.csv", fileEncoding = "latin1")
+temps <- read.csv("../Data/temps50k.csv")
 
 # Merge station and temperature data by station number
 st <- merge(stations, temps, by = "station_number")

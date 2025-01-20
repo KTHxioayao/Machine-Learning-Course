@@ -1,5 +1,5 @@
 # Load the dataset
-df <- read.csv("optdigits.csv", header = FALSE)
+df <- read.csv("../Data/optdigits.csv", header = FALSE)
 
 # Split the data into training, validation, and testing sets
 n <- dim(df)[1]

@@ -1,7 +1,7 @@
 #Assignment 2
 
 data <- read.csv(
-  'bank-full.csv',
+  '../Data/bank-full.csv',
   sep = ";",
   header = TRUE,
   stringsAsFactors = TRUE

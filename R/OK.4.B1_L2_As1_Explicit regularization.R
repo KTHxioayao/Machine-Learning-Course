@@ -1,7 +1,7 @@
 library(glmnet)
 library(caret)
 
-data <- read.csv("tecator.csv")
+data <- read.csv("../Data/tecator.csv")
 
 set.seed(12345)
 trainIndex <- createDataPartition(data$Fat, p = 0.5, list = FALSE)

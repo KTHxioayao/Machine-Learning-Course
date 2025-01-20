@@ -3,7 +3,7 @@ library(ggplot2)
 #install.packages("caret")
 library(caret)
 
-data <- read.csv("communities.csv")
+data <- read.csv("../Data/communities.csv")
 response <- data$ViolentCrimesPerPop
 #data$ViolentCrimesPerPop<- c()
 

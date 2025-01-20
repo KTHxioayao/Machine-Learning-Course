@@ -1,6 +1,6 @@
 #assignment 3
 
-diabetes <- read.csv('pima-indians-diabetes.csv', header = FALSE)
+diabetes <- read.csv('../Data/pima-indians-diabetes.csv', header = FALSE)
 colnames(diabetes) <- c(
   'Pregnancies',
   'Plasma_glucose',

@@ -4,7 +4,7 @@
 #install.packages("caret")
 library(caret)
 
-data <- read.csv("parkinsons.csv")
+data <- read.csv("../Data/parkinsons.csv")
 n <- dim(data)[1]
 set.seed(12345)
 id <- sample(1:n, floor(n * 0.6))
