@@ -1,0 +1,8 @@
+# Lab 2: Linear Regression
+
+## Purpose
+This lab explores the implementation of linear regression to  purpose is to predict Parkinson's disease symptom score (motor 
+UPDRS) from the biomedical voice.
+
+## Files
+- `code.R`: Contains the implementation code.

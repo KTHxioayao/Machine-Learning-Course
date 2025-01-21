@@ -1,0 +1,7 @@
+# Lab 1: Linear Regression
+
+## Purpose
+This lab explores the implementation of linear regression to predict target variables from input features.
+
+## Files
+- `code.R`: Contains the implementation code.
