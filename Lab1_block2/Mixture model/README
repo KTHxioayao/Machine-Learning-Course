@@ -1,7 +1,7 @@
-# Lab 1: Linear Regression
+# Lab 11: Mixture models
 
 ## Purpose
-This lab explores the implementation of linear regression to predict target variables from input features.
+This assignment aims to implement the EM algorithm for Bernoulli mixture model.
 
 ## Files
 - `code.R`: Contains the implementation code.

@@ -1,7 +1,7 @@
-# Lab 1: Linear Regression
+# Assignment 4: Explicit Regularization
 
 ## Purpose
-This lab explores the implementation of linear regression to predict target variables from input features.
+This assignment analyzes data from the `tecator.csv` dataset to investigate the use of near-infrared absorbance spectra in predicting the fat content of meat samples. The project involves linear regression, LASSO, and Ridge regression techniques, including model evaluation and regularization.
 
 ## Files
 - `code.R`: Contains the implementation code.

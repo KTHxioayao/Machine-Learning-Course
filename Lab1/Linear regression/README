@@ -1,7 +1,7 @@
-# Lab 2: Linear Regression
+# Assignment 2: Linear Regression
 
 ## Purpose
-This lab explores the implementation of linear regression to  purpose is to predict Parkinson's disease symptom score (motor 
+This assignment explores the implementation of linear regression to  purpose is to predict Parkinson's disease symptom score (motor 
 UPDRS) from the biomedical voice.
 
 ## Files

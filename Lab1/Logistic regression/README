@@ -1,7 +1,7 @@
-# Lab 1: Linear Regression
+# Assignment 3: Logistic Regression
 
 ## Purpose
-This lab explores the implementation of linear regression to predict target variables from input features.
+This assignment explores the implementation of logistic regression to predict target variables from input features.
 
 ## Files
 - `code.R`: Contains the implementation code.

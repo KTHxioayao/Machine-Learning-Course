@@ -1,7 +1,7 @@
-# Lab 1: Linear Regression
+# Assignment 8: Linear Regression
 
 ## Purpose
-This lab explores the implementation of linear regression to predict target variables from input features.
+This assignment  explores Support Vector Machines (SVM) using the `kernlab` package in R and focuses on model selection, error estimation, and manual implementation of the decision function for classification. The spam dataset included in the package is used for this assignment.
 
 ## Files
 - `code.R`: Contains the implementation code.

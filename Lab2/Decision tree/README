@@ -1,7 +1,7 @@
-# Lab 1: Linear Regression
+# Assignment 5: Decision tree
 
 ## Purpose
-This lab explores the implementation of linear regression to predict target variables from input features.
+This assignment explores the implementation of decision tree to predict bank customers have bank term deposit from input features.
 
 ## Files
 - `code.R`: Contains the implementation code.

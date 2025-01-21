@@ -1,7 +1,7 @@
-# Lab 1: Linear Regression
+# Assignment 9: Neural Networks
 
 ## Purpose
-This lab explores the implementation of linear regression to predict target variables from input features.
+This assginement focuses on training and evaluating neural networks to model and predict the sine function using the `neuralnet` package in R. The assignment includes experiments with different activation functions, out-of-sample predictions, and an analysis of the behavior of neural networks when reversing the input-output relationship.
 
 ## Files
 - `code.R`: Contains the implementation code.

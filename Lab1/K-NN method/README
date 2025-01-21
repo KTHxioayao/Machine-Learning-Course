@@ -1,7 +1,7 @@
-# Lab 1: K-NN 
+# Assignment 1: K-NN method
 
 ## Purpose
-This lab explores the implementation of K-NN method to predict handwritten digits .
+This assignment explores the implementation of K-NN method to predict handwritten digits .
 
 ## Files
 - `code.R`: Contains the implementation code.

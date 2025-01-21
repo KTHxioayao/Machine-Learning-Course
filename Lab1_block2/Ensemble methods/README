@@ -1,7 +1,7 @@
-# Lab 1: Linear Regression
+# Assignment 10: Ensemble Methods
 
 ## Purpose
-This lab explores the implementation of linear regression to predict target variables from input features.
+This assignment explores the use of Random Forests for binary classification problems using the `randomForest` package in R. Multiple datasets and configurations are analyzed to study the impact of the number of trees on the model's performance and error rates.
 
 ## Files
 - `code.R`: Contains the implementation code.

@@ -1,7 +1,7 @@
-# Lab 1: Linear Regression
+# Assignment 6: Principal Components and Implicit Regularization
 
 ## Purpose
-This lab explores the implementation of linear regression to predict target variables from input features.
+This assignment involves analyzing crime data in the United States using Principal Component Analysis (PCA) and linear regression techniques. The dataset, `communities.csv`, contains various characteristics of locations and the primary target variable, **ViolentCrimesPerPop**, which represents the total number of violent crimes per 100K population.
 
 ## Files
 - `code.R`: Contains the implementation code.

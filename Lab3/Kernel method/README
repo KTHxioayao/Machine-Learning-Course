@@ -1,7 +1,7 @@
-# Lab 1: Linear Regression
+# Assignment 7: Kernel method
 
 ## Purpose
-This lab explores the implementation of linear regression to predict target variables from input features.
+This assignment aims to implement a kernel method to predict the hourly temperatures for a date and place in Swden.
 
 ## Files
 - `code.R`: Contains the implementation code.
